@@ -1,0 +1,56 @@
+canonical_identifier: bkk:krp/KR6q0109/v1
+canonical_location: https://kanripo.org/bkk/KR6q0109/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 楞伽師資記
+  identifiers:
+    alt_id:
+    - T85n2837
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2837.xml
+    old_id: T85n2837
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0109_000.yaml, hash: 'sha256:6253dcbb38013d80175da631ffe3b47ba3cc39d9a83f2dffad11a8265afebff1'}
+  - {seq: 1, filename: KR6q0109_001.yaml, hash: 'sha256:6b0836b5a6e05067b6aa93dc18b46d3e63414399c1dc60ee5846366051d6bb59'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0109_000.markers.yaml, hash: 'sha256:a1162cd395b93ea795c46e825d68421ac921d1650976f77ea07d127bb049b2a7'}
+  - {seq: 1, role: markers, filename: assets/KR6q0109_001.markers.yaml, hash: 'sha256:8fef17a4413f8e3308df24f5de03f4412bc8e691b8fd545c1d958f57ce47fda6'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0109_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 楞伽師資記（序）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0109_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 9900
+  label: 楞伽資記一卷
+  type: juan
+  level: 1
+hash: sha256:bdbe9880d081c8e1692e3f041378eae6ceb1f2c0ef5b887fadc4240de9cca755
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
