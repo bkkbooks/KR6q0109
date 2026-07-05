@@ -24,11 +24,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6q0109_000.yaml, hash: 'sha256:6253dcbb38013d80175da631ffe3b47ba3cc39d9a83f2dffad11a8265afebff1'}
-  - {seq: 1, filename: KR6q0109_001.yaml, hash: 'sha256:6b0836b5a6e05067b6aa93dc18b46d3e63414399c1dc60ee5846366051d6bb59'}
+  - {seq: 0, filename: KR6q0109_000.yaml, hash: 'sha256:a6da07e063a84f644841f810949d7031c6e659c81ec6a4ea7e9c80c349c47831'}
+  - {seq: 1, filename: KR6q0109_001.yaml, hash: 'sha256:9dae7fabdd640330663db76e044f5dfcdc5a17b6662bbe25bf020682ee181a44'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0109_000.markers.yaml, hash: 'sha256:a1162cd395b93ea795c46e825d68421ac921d1650976f77ea07d127bb049b2a7'}
-  - {seq: 1, role: markers, filename: assets/KR6q0109_001.markers.yaml, hash: 'sha256:8fef17a4413f8e3308df24f5de03f4412bc8e691b8fd545c1d958f57ce47fda6'}
+  - {seq: 0, role: markers, filename: assets/KR6q0109_000.markers.yaml, hash: 'sha256:9978aebac7cad9cb38b9bf3618ce3004339c192ffab228c1bc31131320dd7550'}
+  - {seq: 1, role: markers, filename: assets/KR6q0109_001.markers.yaml, hash: 'sha256:e39bf0c16cb7272ed0f495e137f7542eff79e5a40df6a6885995bba50b6d6ab7'}
 table_of_contents:
 - ref:
     seq: 0
@@ -50,7 +50,4 @@ table_of_contents:
   label: 楞伽資記一卷
   type: juan
   level: 1
-hash: sha256:bdbe9880d081c8e1692e3f041378eae6ceb1f2c0ef5b887fadc4240de9cca755
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:a05085aeb6169d711e97f41543c86aad5552a56bad3ec52c6e07f4b0a9966731
