@@ -24,17 +24,17 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6q0109_000.yaml, hash: 'sha256:76274e476bd2fdfbf52cfb3f0ffffb351b27c08faeb2d779a584533dcb25c9c2'}
+  - {seq: 0, filename: KR6q0109_000.yaml, hash: 'sha256:ace2bc0e196c8ef7e61c750cf4d13a9e9bb4445cd45a4246ffeacaa3b9011ce4'}
   - {seq: 1, filename: KR6q0109_001.yaml, hash: 'sha256:29c32c7e167e9f77cd1fe42c69c6bd8e41b8cfff4845e69e071c9cc7416150ea'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0109_000.markers.yaml, hash: 'sha256:04efeeb7492fede402efeb8ac0d61d3efd933f0a886a0853aef2fb9a1edf238b'}
+  - {seq: 0, role: markers, filename: assets/KR6q0109_000.markers.yaml, hash: 'sha256:4ae0c2d1258b771c3c7a417c2b8923906267d24d875debd418c3d8859c96127e'}
   - {seq: 1, role: markers, filename: assets/KR6q0109_001.markers.yaml, hash: 'sha256:abd401437f31af50146098018ca8414b30b12187ab6afd55a52f06ac6781f9b3'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0109_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 楞伽師資記（序）
@@ -50,7 +50,7 @@ table_of_contents:
   label: 楞伽資記一卷
   type: juan
   level: 1
-hash: sha256:897f33ba45558d65eebacf0b438c04319031e6a88feaf59254923d0e55ee3197
+hash: sha256:bc056bb9793b65f92117fb9fe9023a43be9f6eda64d1a311e786b1aa04358f56
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
